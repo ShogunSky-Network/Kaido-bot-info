@@ -2,7 +2,7 @@
 
 **Last Updated:** \[09/05/2025]
 
-This Privacy Policy describes how **Kaido**, a Discord bot developed by **Dextry** for the **ShogunSky** guild, collects and uses data.
+This Privacy Policy describes how **Kaido**, a Discord bot developed by **Dextry** for the **Tenshi** guild, collects and uses data.
 
 ### 1. What Data is Collected
 
@@ -17,20 +17,20 @@ No usernames, emails, IP addresses, or personal messages are collected.
 
 ### 2. Purpose of Data
 
-Data is only used to support the bot’s verification, logging, and moderation features within the ShogunSky Discord server.
+Data is only used to support the bot’s verification, logging, and moderation features within the Tenshi Discord server.
 
 ### 3. Data Sharing
 
-Kaido does **not** share data with third parties. All collected data is kept within the bot’s internal systems or within the ShogunSky server.
+Kaido does **not** share data with third parties. All collected data is kept within the bot’s internal systems or within the Tenshi server.
 
 ### 4. Data Retention
 
-Data may be stored as long as the Bot remains active on the ShogunSky server. If the Bot is removed, data is deleted after a reasonable cleanup period.
+Data may be stored as long as the Bot remains active on the Tenshi server. If the Bot is removed, data is deleted after a reasonable cleanup period.
 
 ### 5. Your Rights
 
-Users may request to view or delete their stored data by contacting an administrator of the ShogunSky guild.
+Users may request to view or delete their stored data by contacting an administrator of the Tenshi guild.
 
 ### 6. Changes to This Policy
 
-We may update this Privacy Policy at any time. Major changes will be communicated via the ShogunSky server or the Bot.
+We may update this Privacy Policy at any time. Major changes will be communicated via the Tenshi server or the Bot.

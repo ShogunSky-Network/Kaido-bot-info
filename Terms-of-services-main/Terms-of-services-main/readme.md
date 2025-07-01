@@ -7,13 +7,13 @@ By using the **Kaido** Discord bot ("the Bot"), you agree to these **Terms of Se
 
 ### 1. Description
 
-**Kaido** is a Discord bot developed by **Dextry** for the **ShogunSky** guild. It is designed to manage member verification, assign roles, send automated messages, and support server security and organization.
+**Kaido** is a Discord bot developed by **Dextry** for the **Tenshi** guild. It is designed to manage member verification, assign roles, send automated messages, and support server security and organization.
 
 ### 2. Permitted Use
 
 * You must comply at all times with [Discord’s Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
 * You may not use Kaido for any illegal, abusive, harmful, or malicious activity.
-* The ShogunSky guild is responsible for how the Bot is used on its server.
+* The Tenshi guild is responsible for how the Bot is used on its server.
 
 ### 3. Data Collection
 
@@ -31,5 +31,5 @@ Dextry is not liable for any damage, data loss, or misuse resulting from the use
 
 ### 5. Changes
 
-These Terms may be updated at any time without prior notice. Updates will be announced through Kaido or the ShogunSky Discord server as needed.
+These Terms may be updated at any time without prior notice. Updates will be announced through Kaido or the Tenshi Discord server as needed.
 
